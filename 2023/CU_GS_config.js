@@ -18,7 +18,7 @@ var config_data = `
       "code": "e",
       "gsCol": "event",
       "type": "event",
-      "defaultValue": "2023ontor",
+      "defaultValue": "2023qcmo",
       "required": "true",
       "disabled": "true"
     },
