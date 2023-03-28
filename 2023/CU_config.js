@@ -14,7 +14,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "2023ontor",
+      "defaultValue": "2023qcmo",
       "required": "true",
       "disabled": "true"
     },
